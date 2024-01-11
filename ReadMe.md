@@ -1,6 +1,6 @@
 # Learning Design Patterns with Python
 
-This repository contains Python code examples for learning design patterns.
+This repository contains Python code examples for learning design patterns for robust software development.
 
 ## Getting Started
 
